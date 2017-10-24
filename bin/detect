@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "GNU Parallel"
+exit 0
